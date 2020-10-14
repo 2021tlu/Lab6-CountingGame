@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 6 - Counting Game</string>
+    <string name="twoText">+2</string>
+    <string name="oneText">+1</string>
+    <string name="titleText">Counting Game</string>
+    <string name="threeText">+3</string>
+    <string name="resetButton">Reset</string>
+    <string name="turnTextInitial">Player 1\'s Turn</string>
+    <string name="numTextInitial">0</string>
+</resources>
